@@ -8,4 +8,4 @@ Front-end under development
 
 
 <strong>Existing Data (<em>/docs#/default/get_all_courses_courses_get</em>)</strong>
-<img src="images\27.png" alt="img" >
+<img src="images\2.png" alt="img" >
